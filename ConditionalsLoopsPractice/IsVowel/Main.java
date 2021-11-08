@@ -1,4 +1,5 @@
 import java.lang.*;
+
 public class Main
 {
     /**prints if the parameter is a vowel or not
